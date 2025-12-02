@@ -1,5 +1,3 @@
-
-import './App.css'
 import LoginScreen from './features/auth/loginScreen'
 
 function App() {
